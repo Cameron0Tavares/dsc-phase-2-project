@@ -1,4 +1,4 @@
-# Flatiron Phase 2 Project - Jung Lim Fan Club 
+# Flatiron Phase 2 Project
 ~Jordan Mang, Garrett Hall, Charles Pan
 
 
