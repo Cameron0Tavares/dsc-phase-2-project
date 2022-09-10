@@ -1,4 +1,4 @@
-# Flatiron Phase 2 Project
+# Predicting Seattle Housing Prices
 ~Jordan Mang, Garrett Hall, Charles Pan
 
 
