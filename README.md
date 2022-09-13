@@ -1,6 +1,4 @@
 # Predicting Seattle Housing Prices
-~Jordan Mang, Garrett Hall, Charles Pan
-
 
 ## Project Overview
 
